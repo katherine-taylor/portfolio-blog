@@ -1,0 +1,15 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katherine-taylor-858122149/
+    - icon: github
+      text: Github
+      href: https://github.com/katherine-taylor
+---
+
+About this blog
