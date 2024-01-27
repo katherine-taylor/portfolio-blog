@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - about.qmd
+      - teaching_philosophy.qmd
+      - classroom_mgmt.qmd
       - icon: github
         href: https://github.com/katherine-taylor
       - icon: linkedin
@@ -14,6 +16,7 @@ format:
   html:
     theme: journal
     css: styles.css
-
+page-layout: full
+title-block-banner: background.jpg
 editor: visual
 

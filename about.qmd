@@ -12,4 +12,8 @@ about:
       href: https://github.com/katherine-taylor
 ---
 
-About this blog
+I'm currently getting my master's degree in mathematics education at the University of Virginia (UVA), and I'd love to teach at a middle school in a diverse community following graduation. I also got my undergraduate degree from UVA in 2020 in Systems Engineering and Statistics, where I also served as drum major of the marching band for two years. In my spare time, I love to play bassoon, read, watch Formula One, and cheer on the Hoos. My resume is linked below:
+
+`<iframe width ="800" height = "1000" src="https://docs.google.com/document/d/e/2PACX-1vTzEAj6hYDHdPnr_8LiJRGGxDAlRZGpFRsGOSPol-1TpLQc3ZUK_gFi2ILlu9eyVQ/pub?embedded=true"`{=html}
+
+</iframe>

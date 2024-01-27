@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Quadrilaterals Lesson Plan\n\n\n\n\n\n\n\nmiddle school\n\n\ngeometry\n\n\nmath\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\nKatherine Taylor\n\n\n\n\n\n\n  \n\n\n\n\nSymmetry and Origami Lesson Plan\n\n\n\n\n\n\n\nhigh school\n\n\ngeometry\n\n\nmath\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2024\n\n\nKatherine Taylor\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -25,6 +25,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I’m currently getting my master’s degree in mathematics education at the University of Virginia (UVA), and I’d love to teach at a middle school in a diverse community following graduation. I also got my undergraduate degree from UVA in 2020 in Systems Engineering and Statistics, where I also served as drum major of the marching band for two years. In my spare time, I love to play bassoon, read, watch Formula One, and cheer on the Hoos. My resume is linked below:"
+  },
+  {
+    "objectID": "posts/quadrilateral-lesson/index.html",
+    "href": "posts/quadrilateral-lesson/index.html",
+    "title": "Quadrilaterals Lesson Plan",
+    "section": "",
+    "text": "I designed this lesson initially for the course EDIS 5450: Teaching Math in Secondary Schools, to be taught in a seventh grade classroom. Through an inquiry activity and using math manipulatives, students will learn more about how diagonals can be used to classify the different types of quadrilaterals. This lesson represents my teaching approach of developing a deeper mathematical understanding through inquiry based activities, and the use student focused learning."
+  },
+  {
+    "objectID": "posts/origami-lesson/index.html",
+    "href": "posts/origami-lesson/index.html",
+    "title": "Symmetry and Origami Lesson Plan",
+    "section": "",
+    "text": "I designed this lesson during my placement in a high school geometry classroom. During the lesson students complete stations about transformations, including reflections, translations, and identifying symmetry. I specifically designed an activity using nearpod that helps students understand lines of symmetry while folding an origami flower. The origami flower serves as a concrete manipulative to help students learn how shapes “fold” over lines of symmetry. This lesson reflects my teaching approach of developing a deeper mathematical understanding through inquiry based activities, and the use student focused learning."
   }
 ]

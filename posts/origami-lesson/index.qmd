@@ -1,0 +1,13 @@
+---
+title: "Symmetry and Origami Lesson Plan"
+author: "Katherine Taylor"
+date: "2024-01-24"
+categories: [high school, geometry, math]
+image: "origami_lesson.jpg"
+---
+
+I designed this lesson during my placement in a high school geometry classroom. During the lesson students complete stations about transformations, including reflections, translations, and identifying symmetry. I specifically designed an activity using nearpod that helps students understand lines of symmetry while folding an origami flower. The origami flower serves as a concrete manipulative to help students learn how shapes "fold" over lines of symmetry. This lesson reflects my teaching approach of developing a deeper mathematical understanding through inquiry based activities, and the use student focused learning.
+
+`<iframe width ="800" height = "1000" src="https://docs.google.com/document/d/e/2PACX-1vRxDRS2cQrzHlfEvJUMxiOhwuKXAoSQnZEngq9uUAEoNj_rJkUg0k2MLvbkM70XS33in0gl49KXNfXj/pub?embedded=true"`{=html}
+
+</iframe>

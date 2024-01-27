@@ -1,0 +1,13 @@
+---
+title: "Quadrilaterals Lesson Plan"
+author: "Katherine Taylor"
+date: "2024-01-27"
+categories: [middle school, geometry, math]
+image: "quadrilateral_lesson.png"
+---
+
+I designed this lesson initially for the course EDIS 5450: Teaching Math in Secondary Schools, to be taught in a seventh grade classroom. Through an inquiry activity and using math manipulatives, students will learn more about how diagonals can be used to classify the different types of quadrilaterals. This lesson represents my teaching approach of developing a deeper mathematical understanding through inquiry based activities, and the use student focused learning.
+
+`<iframe width ="800" height = "1000" src="https://docs.google.com/document/d/e/2PACX-1vT8jUMBS28d-hGBQZGBbHOy5u_RhXT-uD00cpZ8qKVPqizwlM0Vtx6mfOXRur_RihygZDUFGlZ_TrDP/pub?embedded=true"`{=html}
+
+</iframe>

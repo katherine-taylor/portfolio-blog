@@ -1,0 +1,14 @@
+{
+  "hash": "b2bf980a47560256c3c2abb3163395b3",
+  "result": {
+    "markdown": "---\ntitle: \"Quadrilaterals Lesson Plan\"\nauthor: \"Katherine Taylor\"\ndate: \"2024-01-27\"\ncategories: [middle school, geometry, math]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
